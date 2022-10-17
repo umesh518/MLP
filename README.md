@@ -1,2 +1,0 @@
-# MLP
-MLP using docker
